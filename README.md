@@ -6,4 +6,4 @@ Run the notebook in `notebooks/` from top to bottom to regenerate `data/fiber_da
 
 Heuristics: dried fruit allowed with ranking penalty; dried staple grains/pulses and dehydrated non-fruit ingredients excluded by default, alongside spices, juice and minor ingredients. False positives/negatives remain possible; not a food-safety, popularity, or serving-size model. CNF composition averages are per 100 g edible portion. Review rules and results before use.
 
-AI-use note: ChatGPT (GPT-6) assisted with refactoring and testing the rules and documentation. Verify and document your own manual review, design decisions, and tests before submission.
+AI-use note: ChatGPT (GPT-6) assisted with refactoring and testing the rules and documentation.
